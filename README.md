@@ -3,15 +3,15 @@ Nama : Tigor Andre Tambunan
 Nim : 13 111 3964 
 Kelas : TP-B (Pagi) 
 
-1.	 Apakah anda setuju atau tidak dengan pendapat Turing? 
+1. Apakah anda setuju atau tidak dengan pendapat Turing? 
 
 Saya setuju dengan pendapat Turing , untuk mengetahui apakah mesin dapat bernalar seperti manusia diperlukan sebuah permainan imitasi dimana permainan ini bertujuanu untuk menjebak si interogator agar salah dalam menilai bahwa seseorang yang dimintai pertanyaan tersebut adalah manusia atau sebuah mesin. 
 
-2.	 Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat? 
+2. Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat? 
 
 Ya saya yakin karena seiring berjalannya waktu revolusi untuk “upgrade” diri. Sama halnya dengan spesifikasi komputer zaman dulu dengan sekarang dengan mengikuti sistem perkembangan yang ada, dengan kemampuan pengetahuan yang sama dengan manusia. 
 
-3.	 Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing? 
+3. Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing? 
 	
 Masalah atau Penghambat utama dari Tes Turing adalah  kesalahan pada aritmatika dan bahasa yang belum dipahami yang berupa teks  , tetapi jika itu mesin dia pasti akan berlaku cemerlang dan tidak memiliki kesalahan pada aritmatika.
 
