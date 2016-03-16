@@ -1,19 +1,19 @@
 # 
-Nama : Putra Muda Sihombing 
+Nama : Tigor Andre Tambunan
 Nim : 13 111 3964 
 Kelas : TP-B (Pagi) 
 
 1.	 Apakah anda setuju atau tidak dengan pendapat Turing? 
 
-Saya setuju dengan pendapat Turing bahwa untuk mengetahui apakah mesin dapat bernalar seperti manusia diperlukan sebuah permainan imitasi dimana permainan ini bertujuanu untuk menjebak si interogator agar salah dalam menilai bahwa seseorang yang dimintai pertanyaan tersebut adalah manusia atau sebuah mesin. 
+Saya setuju dengan pendapat Turing , untuk mengetahui apakah mesin dapat bernalar seperti manusia diperlukan sebuah permainan imitasi dimana permainan ini bertujuanu untuk menjebak si interogator agar salah dalam menilai bahwa seseorang yang dimintai pertanyaan tersebut adalah manusia atau sebuah mesin. 
 
 2.	 Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat? 
 
-Ya saya yakin karena seiring berjalannya waktu revolusi akan semakin menjadi-jadi , contohnya saja , pada tahun 1990-an komputer masih dalam spek komputer yang sangat rendah jika dibandingkan dengan saat ini dan penggunaan internet sudah sangat berkembang , begitu juga yang akan terjadi pada AI , pada saat ini mungkin Robot belum bisa sesempurna manusia namun pada suatu masa akan ada saatnya robot memiliki kemampuan bahkan pengetahuan yang sama dengan manusia. 
+Ya saya yakin karena seiring berjalannya waktu revolusi untuk “upgrade” diri. Sama halnya dengan spesifikasi komputer zaman dulu dengan sekarang dengan mengikuti sistem perkembangan yang ada, dengan kemampuan pengetahuan yang sama dengan manusia. 
 
 3.	 Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing? 
 	
-Masalah atau Penghambat utama dari Tes Turing adalah banyak cara untuk membuat agar robot dapat berpikir layaknya manusia yang fleksibel dan tidak kaku. Seperti yang dikatakan Turing pada artikelnya jika manusia mencoba untuk meniru sebuah mesin pasti mereka akan menunjukkan sesuatu yang buruk misalnya saja kesalahan pada aritmatika, tetapi jika itu mesin dia pasti akan berlaku cemerlang dan tidak memiliki kesalahan pada aritmatika.
+Masalah atau Penghambat utama dari Tes Turing adalah  kesalahan pada aritmatika dan bahasa yang belum dipahami yang berupa teks  , tetapi jika itu mesin dia pasti akan berlaku cemerlang dan tidak memiliki kesalahan pada aritmatika.
 
 Jelaskan istilah pada bidang AI serta berikan beberapa contoh implementasi untuk masing-masing sub bidang tersebut!
  
