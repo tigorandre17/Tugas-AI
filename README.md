@@ -1,6 +1,6 @@
 # 
 Nama : Tigor Andre Tambunan
-Nim : 13 111 3964 
+Nim : 13 111 4374 
 Kelas : TP-B (Pagi) 
 
 1. Apakah anda setuju atau tidak dengan pendapat Turing? 
